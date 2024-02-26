@@ -11,7 +11,7 @@ int pin3[] = {22, 23, 24, 25, 26, 27, 28};
 
 int segments = 3;  // Anzahl der 7-Segment Displays
 
-// Wenn nicht alles 3 7-Segment Displays benutzt werden muss man lehre arrays mitgeben -->
+// Wenn nicht alle 3 7-Segment Displays benutzt werden muss man lehre arrays mitgeben -->
 // int pin2[7]; ...
 
 SevenSeg Anzeige(segments, pin, pin2, pin3);
