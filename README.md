@@ -1,3 +1,5 @@
+> SevenSeg V.1.0
+
 # Einführung #
 
 Diese Bibliothek funktioniert momentan nur für Common-Cathode 7-Segment Displays.
@@ -137,3 +139,13 @@ void SevenSeg::clear()
 }
 
 ```
+
+# Links: #
+
+[**Header-File**](https://github.com/FabianSchieder/Arduino_7Segment-library/blob/main/sevenSeg.h)
+
+[**Quellcode-File**](https://github.com/FabianSchieder/Arduino_7Segment-library/blob/main/sevenSeg.cpp)
+
+[**Beispiel-Sketch**](https://github.com/FabianSchieder/Arduino_7Segment-library/blob/main/ExampleSketch.ino)
+
+> Das ist die erste Version des Codes. Er ist noch nicht optimiert.
