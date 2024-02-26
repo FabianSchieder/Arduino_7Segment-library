@@ -4,6 +4,8 @@
 
 Diese Bibliothek funktioniert momentan nur für Common-Cathode 7-Segment Displays.
 
+[**Download**](https://github.com/FabianSchieder/Arduino_7Segment-library/raw/main/SevenSeg.zip) (SevenSeg.zip)
+
 ### Sieben-Segment Segmente: ###
 
 ![](https://github.com/FabianSchieder/Arduino_7Segment-library/blob/main/7SegmentSegmente.png "Segmente")
